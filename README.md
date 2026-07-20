@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.com/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hi%20👋,%20I'm%20Tanmay%20Korate&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hi%20👋,%20I'm%20Tanmay%20Korate&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -59,7 +59,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TanmayKorate01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayKorate01&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayKorate01&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=TanmayKorate01&theme=tokyonight&hide_border=true" width="60%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayKorate01&theme=tokyo-night&hide_border=true" width="90%" />
 
@@ -79,6 +79,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TanmayKorate01&color=58A6FF&style=flat-square)
 
-<img src="https://capsule-render.com/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
 
 </div>

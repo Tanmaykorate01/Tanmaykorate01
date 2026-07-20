@@ -67,10 +67,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🏆 Achievements
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/TanmayKorate01/TanmayKorate01/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=TanmayKorate01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---

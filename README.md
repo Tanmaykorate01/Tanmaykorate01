@@ -14,10 +14,14 @@
 
 ### 🚀 About Me
 
-- ⚡ Building scalable backend solutions
-- 🤝 Open to collaborations and Open Source
-- 💬 Ask me about Java and Backend Development
-- 🌱 Currently deepening my knowledge of distributed systems & databases
+I'm a backend-focused developer who enjoys turning ideas into systems that actually hold up under real use — not just code that runs once and looks good in a demo.
+
+- 🔭 Currently building backend services with **Java, Spring Boot & Python**
+- 🌱 Sharpening my understanding of **distributed systems, databases & system design**
+- ⚙️ Focused on writing clean, scalable, production-minded code — not just "make it work"
+- 🤝 Open to collaborating on backend & open-source projects
+- 💬 Happy to talk Java, Spring Boot, backend architecture, or DSA
+- 📈 Long-term goal: grow into a strong backend/systems engineer who ships reliable software
 
 > *"I build, not just learn."*
 
@@ -71,6 +75,20 @@
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TanmayKorate01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+
 </div>
 
 ---

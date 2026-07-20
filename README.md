@@ -14,14 +14,14 @@
 
 ### 🚀 About Me
 
-I'm a backend-focused developer who enjoys turning ideas into systems that actually hold up under real use — not just code that runs once and looks good in a demo.
+Backend developer focused on building reliable, well-structured systems using Java, Spring Boot, and Python. I care about writing code that scales cleanly and performs predictably in production, not just code that works in a demo.
 
 - 🔭 Currently building backend services with **Java, Spring Boot & Python**
-- 🌱 Sharpening my understanding of **distributed systems, databases & system design**
-- ⚙️ Focused on writing clean, scalable, production-minded code — not just "make it work"
-- 🤝 Open to collaborating on backend & open-source projects
-- 💬 Happy to talk Java, Spring Boot, backend architecture, or DSA
-- 📈 Long-term goal: grow into a strong backend/systems engineer who ships reliable software
+- 🌱 Deepening my understanding of **distributed systems, databases & system design**
+- ⚙️ Focused on clean architecture, maintainability, and production-grade engineering practices
+- 🤝 Open to collaborating on backend and open-source projects
+- 💬 Glad to discuss Java, Spring Boot, backend architecture, or data structures & algorithms
+- 📈 Working toward a long-term career as a backend/systems engineer building reliable software
 
 > *"I build, not just learn."*
 
@@ -74,7 +74,7 @@ I'm a backend-focused developer who enjoys turning ideas into systems that actua
 ### 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TanmayKorate01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=TanmayKorate01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---

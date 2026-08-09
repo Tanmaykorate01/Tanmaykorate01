@@ -85,7 +85,7 @@ Backend developer focused on building reliable, well-structured systems using Ja
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/tanmay-korate-0a3615380/)
+[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/tanmay-korate-0a3615380/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 

@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 Backend developer focused on building reliable, well-structured systems using Java, Spring Boot, and Python. I care about writing code that scales cleanly and performs predictably in production, not just code that works in a demo.
 

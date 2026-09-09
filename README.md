@@ -1,51 +1,58 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,45:203a43,100:2c5364&height=190&section=header&text=Tanmay%20Korate&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Python&descAlignY=58&descSize=16"
-    alt="Tanmay Korate — Backend Developer"
-  />
+  <img src="./assets/profile-banner.svg" alt="Tanmay Korate — Backend Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems.;Clean+code.+Scalable+services.+Better+systems."
-    alt="Typing introduction"
-  />
+  <a href="https://github.com/Tanmaykorate01"><img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-FFFFFF?style=flat-square&labelColor=111111&color=FFFFFF" alt="Backend engineering" /></a>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-D4D4D4?style=flat-square&labelColor=111111&color=D4D4D4" alt="Building and learning" />
 </p>
+
+<br />
+
+## `whoami`
+
+```yaml
+name: Tanmay Korate
+role: Backend Developer
+currently_focused_on:
+  - Java and Spring Boot services
+  - System design and databases
+  - Writing software that stays maintainable as it grows
+```
+
+I enjoy the part of engineering that people do not always see: shaping dependable APIs, thinking through edge cases, and turning a vague requirement into a system with a clear structure.
+
+## `stack --current`
 
 <p align="center">
-  <a href="https://github.com/Tanmaykorate01">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,sqlite,flask,git,github,maven&theme=dark&perline=10" alt="Java, Spring Boot, Python, C++, MySQL, SQLite, Flask, Git, GitHub, Maven" />
 </p>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Build</h3>
+      <p>Backend services, REST APIs, database-backed applications, and clean application structure.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Improve</h3>
+      <p>System design, distributed systems, data structures, and production-minded problem solving.</p>
+    </td>
+  </tr>
+</table>
 
-## 👋 About Me
+## `principles.md`
 
-I am a backend-focused developer interested in building dependable, maintainable software. My focus is on designing clean APIs, understanding how systems behave at scale, and writing code that remains easy to work with as it grows.
-
-- 🔭 Building backend services with **Java**, **Spring Boot**, and **Python**
-- 🌱 Learning more about **system design**, **databases**, and **distributed systems**
-- ⚙️ Interested in clean architecture, REST APIs, and production-grade engineering
-- 🤝 Open to backend and open-source collaboration
-
-## 🧰 Tech Stack
+> **Make it clear. Make it reliable. Make it easy to improve.**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cpp,mysql,sqlite,flask,git,github,maven,vercel&perline=11" alt="Technology stack" />
+  <img src="https://img.shields.io/badge/01-Clean%20Architecture-FFFFFF?style=for-the-badge&labelColor=111111&color=FFFFFF" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/02-Thoughtful%20APIs-D4D4D4?style=for-the-badge&labelColor=111111&color=D4D4D4" alt="Thoughtful APIs" />
+  <img src="https://img.shields.io/badge/03-Continuous%20Learning-A3A3A3?style=for-the-badge&labelColor=111111&color=A3A3A3" alt="Continuous Learning" />
 </p>
 
-| Focus area | What I work with |
-| :-- | :-- |
-| **Languages** | Java · Python · C++ · SQL |
-| **Backend** | Spring Boot · Flask · REST APIs |
-| **Databases** | MySQL · SQLite |
-| **Tools** | Git · GitHub · Maven · Vercel |
-| **Core CS** | DSA · OOP · DBMS · Operating Systems · Computer Networks |
+<br />
 
-## 🧠 Engineering Mindset
-
-```text
-Design clearly  →  Build reliably  →  Learn continuously
+<p align="center">
+  <sub>Designed with intent · Built one commit at a time</sub>
+</p>
